@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ANN/1.0.0": {
+        "dependencies": {
+          "NeuralNetwork": "7.4.0"
+        },
+        "runtime": {
+          "ANN.dll": {}
+        }
+      },
+      "NeuralNetwork/7.4.0": {
+        "runtime": {
+          "lib/net451/NeuralNetwork.dll": {
+            "assemblyVersion": "7.4.0.0",
+            "fileVersion": "7.4.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ANN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NeuralNetwork/7.4.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+Dq4qwd1umDYAN97ol/+iRn0eQYbRf9buTaIkbI7pVjHnqRjcRmLhQ/kIvdfHV5Bm+qdc4V3ySnr+7EgzWv8Mg==",
+      "path": "neuralnetwork/7.4.0",
+      "hashPath": "neuralnetwork.7.4.0.nupkg.sha512"
+    }
+  }
+}

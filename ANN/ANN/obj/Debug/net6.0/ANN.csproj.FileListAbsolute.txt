@@ -1,0 +1,17 @@
+C:\Users\ksmid\source\repos\ANN\ANN\bin\Debug\net6.0\ANN.exe
+C:\Users\ksmid\source\repos\ANN\ANN\bin\Debug\net6.0\ANN.deps.json
+C:\Users\ksmid\source\repos\ANN\ANN\bin\Debug\net6.0\ANN.runtimeconfig.json
+C:\Users\ksmid\source\repos\ANN\ANN\bin\Debug\net6.0\ANN.dll
+C:\Users\ksmid\source\repos\ANN\ANN\bin\Debug\net6.0\ANN.pdb
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.csproj.AssemblyReference.cache
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.AssemblyInfoInputs.cache
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.AssemblyInfo.cs
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.csproj.CoreCompileInputs.cache
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.dll
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\refint\ANN.dll
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.pdb
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.genruntimeconfig.cache
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ref\ANN.dll
+C:\Users\ksmid\source\repos\ANN\ANN\bin\Debug\net6.0\NeuralNetwork.dll
+C:\Users\ksmid\source\repos\ANN\ANN\obj\Debug\net6.0\ANN.csproj.CopyComplete
